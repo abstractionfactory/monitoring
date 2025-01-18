@@ -19,3 +19,10 @@ sites:
     url: $MONITORING_STORAGE_SSH
     port: $MONITORING_STORAGE_SSH_PORT
     check: "tcp-ping"
+
+status-website:
+  baseUrl: /monitoring
+  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  name: Monitoring
+  introTitle: ""
+  introMessage: ""
