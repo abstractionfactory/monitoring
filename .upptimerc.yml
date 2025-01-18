@@ -17,7 +17,7 @@ sites:
     
   - name: Storage SSH
     url: $MONITORING_STORAGE_SSH
-    port: $MONITORING_STORAGE_SSH_PORT
+    port: $MONITORING_MAIL_SSH_PORT
     check: "tcp-ping"
 
 status-website:
