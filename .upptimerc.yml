@@ -26,3 +26,7 @@ status-website:
   name: Monitoring
   introTitle: ""
   introMessage: ""
+  robotsText: "User-agent: * \n Disallow: /"
+skipDescriptionUpdate: true
+skipTopicsUpdate: true
+skipHomepageUpdate: true
