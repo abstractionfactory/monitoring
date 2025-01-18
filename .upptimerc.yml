@@ -30,3 +30,7 @@ status-website:
 skipDescriptionUpdate: true
 skipTopicsUpdate: true
 skipHomepageUpdate: true
+
+commitMessages:
+  commitAuthorName: "AbstractionFactory"
+  commitAuthorEmail: "179820029+abstractionfactory@users.noreply.github.com"
