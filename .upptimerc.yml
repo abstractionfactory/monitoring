@@ -20,6 +20,9 @@ sites:
     port: $MONITORING_MAIL_SSH_PORT
     check: "tcp-ping"
 
+workflowSchedule:
+  uptime: "0 * * * *"
+
 status-website:
   baseUrl: /monitoring
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
