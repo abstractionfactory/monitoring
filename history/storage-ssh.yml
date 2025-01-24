@@ -1,7 +1,7 @@
 url: $MONITORING_STORAGE_SSH
 status: up
 code: 200
-responseTime: 156
-lastUpdated: 2025-01-23T23:14:16.953Z
+responseTime: 111
+lastUpdated: 2025-01-24T23:13:54.716Z
 startTime: 2025-01-18T22:27:02.878Z
 generator: Upptime <https://github.com/upptime/upptime>
