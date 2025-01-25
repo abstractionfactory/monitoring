@@ -1,7 +1,7 @@
 url: $MONITORING_CERT_URL
 status: up
 code: 200
-responseTime: 110
-lastUpdated: 2025-01-24T23:13:52.596Z
+responseTime: 162
+lastUpdated: 2025-01-25T23:14:47.069Z
 startTime: 2025-01-18T22:27:01.789Z
 generator: Upptime <https://github.com/upptime/upptime>
