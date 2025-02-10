@@ -1,7 +1,7 @@
 url: $MONITORING_URL
 status: up
 code: 200
-responseTime: 1915
-lastUpdated: 2025-02-09T23:15:20.876Z
+responseTime: 780
+lastUpdated: 2025-02-10T23:15:57.128Z
 startTime: 2025-01-18T22:27:00.849Z
 generator: Upptime <https://github.com/upptime/upptime>
