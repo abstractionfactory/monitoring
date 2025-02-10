@@ -1,7 +1,7 @@
 url: $MONITORING_MAIL_SSH
 status: up
 code: 200
-responseTime: 160
-lastUpdated: 2025-02-09T23:15:22.215Z
+responseTime: 92
+lastUpdated: 2025-02-10T23:15:58.057Z
 startTime: 2025-01-18T22:27:02.150Z
 generator: Upptime <https://github.com/upptime/upptime>
